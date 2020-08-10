@@ -1,0 +1,20 @@
+{
+  "phpcs.standard": "WordPress",
+  "phpcbf.standard": "WordPress",
+  "phpcbf.onsave": true,
+  "[php]": {
+    "editor.tabCompletion": "off",
+    "editor.detectIndentation": false,
+    "files.insertFinalNewline": true,
+    // "editor.formatOnSave": true
+  },
+  "editor.tabSize": 4,
+  "editor.insertSpaces": false,
+  "html.format.contentUnformatted": "pre,code,textarea",
+  "html.format.extraLiners": "head, body, /html",
+  "html.format.indentHandlebars": false,
+  "html.format.indentInnerHtml": false,
+  "html.format.wrapLineLength": 120,
+  "html.format.wrapAttributes": "force",
+  "html.format.endWithNewline": true
+}

@@ -1,0 +1,22 @@
+.footer-menu {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: start;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.footer-menu>li {
+  max-width: 33%;
+  color: #000;
+  font-weight: bold;
+}
+
+.footer-menu> li > a{
+  color: #000;
+  font-weight: bold;
+}
